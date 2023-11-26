@@ -1,0 +1,7 @@
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Post\Post\bin\Debug\Post.exe.config
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Post\Post\bin\Debug\Post.exe
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Post\Post\bin\Debug\Post.pdb
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Post\Post\obj\Debug\Post.csproj.AssemblyReference.cache
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Post\Post\obj\Debug\Post.csproj.CoreCompileInputs.cache
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Post\Post\obj\Debug\Post.exe
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Post\Post\obj\Debug\Post.pdb
