@@ -1,0 +1,7 @@
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Stack\Stack\bin\Debug\Stack.exe.config
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Stack\Stack\bin\Debug\Stack.exe
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Stack\Stack\bin\Debug\Stack.pdb
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Stack\Stack\obj\Debug\Stack.exe
+D:\C# Intermediate Classes, Interfaces and OOP\Exercises\Stack\Stack\obj\Debug\Stack.pdb
