@@ -11,10 +11,11 @@ namespace DatabaseConnection
         static void Main(string[] args)
         {
             var dbCommand = new DbCommand(new SqlConnection("SQL connection"), "Some instructions");
-            Console.WriteLine(dbCommand);
+            dbCommand.Execute();
+      
 
             var dbCommand1 = new DbCommand(new OracleConnection("Oracle connection"), "Some instructions");
-            Console.WriteLine(dbCommand1);
+            dbCommand1.Execute();
         }
     }
 }
